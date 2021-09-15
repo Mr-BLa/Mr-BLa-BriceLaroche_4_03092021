@@ -2070,6 +2070,10 @@ pre code {
     padding-left: 15px
 }
 
+.col-sm-4{
+    margin-left: 9vw;
+}
+
 .col-xs-1,
 .col-xs-10,
 .col-xs-11,
