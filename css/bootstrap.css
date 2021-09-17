@@ -1659,6 +1659,7 @@ mark {
 
 .text-center {
     text-align: center
+    
 }
 
 .text-justify {
@@ -2071,7 +2072,7 @@ pre code {
 }
 
 .col-sm-4{
-    margin-left: 9vw;
+    margin-left: 0;
 }
 
 .col-xs-1,
