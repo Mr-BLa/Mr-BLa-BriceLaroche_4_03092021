@@ -10,8 +10,12 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
     font-size: 15px;
+}
+
+a:focus,
+button:focus {
+    outline: none;
 }
 
 a:hover {
@@ -651,13 +655,13 @@ label,
 .btn {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #353535!important;
 }
 
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #353535!important;
+    color: #151515!important;
     font-size: 15px;
     padding: 15px 0;
 }
@@ -788,17 +792,17 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #151515!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #151515!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #151515!important;
 }
 
 .ltc-white {
