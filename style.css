@@ -17,7 +17,6 @@ a:focus,
 button:focus {
     outline: solid;
     color: #FFF;
-    background: rgba(0, 0, 0, .3);
 }
 
 a:hover {
